@@ -1,0 +1,1 @@
+cd ../ && yarn && yarn start
